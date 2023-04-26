@@ -25,4 +25,3 @@ jobs:
       
     - name: Docker Push
       run: docker push sicarvi/express-randomquotes
-
